@@ -1,10 +1,6 @@
-# Resipy
+# Resipy Guide
 
-PROSYS (Iris instruments downlaod syscal data)
-
-### Resipy
-
-Last ned ferdig kompilert versjon av resipy fra [https://gitlab.com/hkex/resipy](https://gitlab.com/hkex/resipy) og kjør.
+Last ned ferdig kompilert versjon av resipy fra [https://gitlab.com/hkex/resipy](https://gitlab.com/hkex/resipy) og kjør programmet fra der du laster det ned. Hvis du får opp en advarsel, velg kjør allikevel.
 
 Hvis du har mac/linux så må du installere wine først for å kunne kjøre programmet
 
