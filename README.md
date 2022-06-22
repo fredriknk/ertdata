@@ -24,9 +24,9 @@ Trykk på “Import from CSV “files with headers: .. ……” og velg den til
 
 Når du har lastet inn topografisk data, sjekk at profilen din fortsatt ser fornuftig ut ved å trykke på “Data”. Hvis du har unøyaktige gps målinger risikerer du å få ganske rar profil (Prøv  20220617_asmasen_tog_mindre_ekstra_data_fjernet_ekstra_data.dat med topoToglinje_Alle_Punkter.csv topofilen for å se eksempelet under: ) Når du har lastet inn topografisk data, sjekk at profilen din fortsatt ser fornuftig ut ved å trykke på “Data”. Hvis du har veldig gps målinger som er ukorrekte risikerer du å få ganske rar profil
 
-![Untitled](images/Untitled%204.png)
+Dette kommer av at det er tatt GPS posisjoner uten god Fix, (Se feks elektrode 30-45 er alt for nærme hverandre, mens elektrode 20-30) er for langt fra hverandre. For å fikse dette valgte jeg å kun bruke første/siste gps posisjon i interpoleringen. Hvis det feks hadde vært en knekk i elektrodemålingen ville jeg hatt med det punktet. 
 
-Dette kommer av at det er tatt GPS posisjoner uten god Fix, (Se to som gjør at feks elektrode 30-45 er alt for nærme hverandre, mens elektrode 20-30 er for langt fra hverandre. For å fikse dette valgte jeg å kun bruke første/siste gps posisjon i interpoleringen. Hvis det feks hadde vært en knekk i elektrodemålingen ville jeg hatt med det punktet. 
+![Untitled](images/Untitled%204.png)
 
 Mens hvis det er riktig avstand mellom punkter ser det mer ut som dette:
 
